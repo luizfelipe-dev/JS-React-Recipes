@@ -17,7 +17,7 @@ Inicie o servidor local para rodar o projeto:
 $ npm start ou yarn init -y
 
 ----------------------------------------------------------------------------------------
-## Abaixo está o nosso Desafio proposto pela Trybe para a criação de um APP de Receitas
+### Utilização do Projeto
 
 O projeto foi desenvolvido com a metodologia Mobile First, ou seja, o projeto está responsivo para smartphones.
 Para visualizar o projeto com a resolução adequada basta visualizar pelo DevTools do Navegador:
@@ -28,9 +28,15 @@ Utilizando Google Chrome:
 Utilizando Firefox:
 - Aperte F12 (ou Ctrl + Shift + I) e depois Ctrl + Shift + K
 
-A responsividade para telas maiores como Ipads e Desktops ainda está em desenvolvimento.
+*A responsividade para telas maiores como Ipads e Desktops ainda está em desenvolvimento.*
 
-## Sobre o Projeto
+## Logando no App
+
+Para visualizar a aplicação você deve preencher um email e senha, que podem ser de ficção
+-Para o email deverá conter @ e .com
+-Para senha basta digitar mais de 6 dígitos quaisquer
+
+## Sobre o projeto e pra quê ele serve:
 
 R3CIPE23 é o nome deste projeto que particularmente, até agora, foi o que mais gostei de ter participado :) 
 Desenvolvido majoritariamente por mim, Guilherme Dugaich e Erick Marinho, grandes amigos de turma.
@@ -39,7 +45,7 @@ Neste projeto, o usuário pode acessar diversas receitas de comidas ou bebidas e
 Existem diversos modos de filtros e consultas: o usuário pode escolher exibir receitas por tipo de carne, ingrediente ou até mesmo por local de origem.
 Nosso produto também recomenda receitas que harmonizam com outras receitas e ainda permite que o usuário acesse receitas já feitas, favoritadas e possa até mesmo trocar o tema do aplicativo.
 
-## Sobre as partes Técnicas do Projeto
+## Quanto as partes Técnicas do Projeto:
 
 Foi desenvolvido todo o Front-End com HTML5, Javascript com o framework React, CSS3 puro e com pouca ajuda do framework Bulma.
 
@@ -53,7 +59,7 @@ Todo o Back-End foi fornecido por duas APIs externas, uma para as comidas e outr
 
 Utilizamos Kanban para divisão de tarefas com o Trello, Slack e Zoom para comunicação remota
 
-## Sobre o Desafio Proposto
+## Sobre o Desafio Proposto:
 
 O CONTEÚDO ABAIXO É EXATAMENTE O 'README' RECEBIDO PARA A RESOLUÇÃO DAS TAREFAS: 
 
