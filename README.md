@@ -33,7 +33,9 @@ Utilizando Firefox:
 ## Logando no App
 
 Para visualizar a aplicação você deve preencher um email e senha, que podem ser de ficção
+
 -Para o email deverá conter @ e .com
+
 -Para senha basta digitar mais de 6 dígitos quaisquer
 
 ## Sobre o projeto e pra quê ele serve:
