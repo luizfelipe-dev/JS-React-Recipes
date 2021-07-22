@@ -1,3 +1,65 @@
+# INSTRUÇÕES PARA INSTALAÇÃO:
+Utilizando o terminal com o gerenciador de pacotes Node ou Yarn:
+
+Primeiro Baixe o projeto através do Git Clone:
+$ git clone link-deste-projeto-acima 
+
+Entre na pasta do projeto:
+$ cd SD-A010-A-PROJECT-RECIPES
+
+Instale as dependências:
+$ npm install ou yarn install
+
+Entre na branch correta com o comando:
+$ git checkout main-group-23 
+
+Inicie o servidor local para rodar o projeto:
+$ npm start ou yarn init -y
+
+----------------------------------------------------------------------------------------
+## Abaixo está o nosso Desafio proposto pela Trybe para a criação de um APP de Receitas
+
+O projeto foi desenvolvido com a metodologia Mobile First, ou seja, o projeto está responsivo para smartphones.
+Para visualizar o projeto com a resolução adequada basta visualizar pelo DevTools do Navegador:
+
+Utilizando Google Chrome:
+- Aperte F12 e depois Ctrl + Shift + M
+
+Utilizando Firefox:
+- Aperte F12 (ou Ctrl + Shift + I) e depois Ctrl + Shift + K
+
+A responsividade para telas maiores como Ipads e Desktops ainda está em desenvolvimento.
+
+## Sobre o Projeto
+
+R3CIPE23 é o nome deste projeto que particularmente, até agora, foi o que mais gostei de ter participado :) 
+Desenvolvido majoritariamente por mim, Guilherme Dugaich e Erick Marinho, grandes amigos de turma.
+
+Neste projeto, o usuário pode acessar diversas receitas de comidas ou bebidas e pode decidir iniciar uma receita assim que estiver cozinhando, marcando os ingredientes, item por item, até que essa receita seja finalizada.
+Existem diversos modos de filtros e consultas: o usuário pode escolher exibir receitas por tipo de carne, ingrediente ou até mesmo por local de origem.
+Nosso produto também recomenda receitas que harmonizam com outras receitas e ainda permite que o usuário acesse receitas já feitas, favoritadas e possa até mesmo trocar o tema do aplicativo.
+
+## Sobre as partes Técnicas do Projeto
+
+Foi desenvolvido todo o Front-End com HTML5, Javascript com o framework React, CSS3 puro e com pouca ajuda do framework Bulma.
+
+Possui cobertura de Testes Automatizados de pelo menos 90%, desenvolvido com RTL (React Testing Library)
+
+Utilizamos o Context API do React para gerenciamento de estado.
+
+Todo o Back-End foi fornecido por duas APIs externas, uma para as comidas e outra para os drinks, listadas no ReadMe Abaixo.
+
+## Sobre a metodologia de Desenvolvimento em grupo:
+
+Utilizamos Kanban para divisão de tarefas com o Trello, Slack e Zoom para comunicação remota
+
+## Sobre o Desafio Proposto
+
+O CONTEÚDO ABAIXO É EXATAMENTE O 'README' RECEBIDO PARA A RESOLUÇÃO DAS TAREFAS: 
+
+----------------------------------------------------------------------------------------
+### PROJETO:
+
 ### Termos de uso
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
