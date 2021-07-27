@@ -3,7 +3,6 @@
 Neste projeto, o usuário pode acessar diversas receitas de comidas ou bebidas e pode decidir iniciar uma receita assim que estiver cozinhando, marcando os ingredientes, item por item, até que essa receita seja finalizada. Existem diversos modos de filtros e consultas: o usuário pode escolher exibir receitas por tipo de carne, ingrediente ou até mesmo por local de origem. Nosso produto também recomenda receitas que harmonizam com outras e ainda permite que o usuário favorite e acesse receitas registradas anteriormente, pois elas ficam salvas no próprio dispositivo.
 
 ## :pushpin: Instruções para Instalação
-Utilizando o terminal com NPM ou Yarn:
 
 :heavy_check_mark: Primeiro Baixe o projeto através do Git Clone:
 
@@ -14,7 +13,11 @@ Via SSH: <code>git clone git@github.com:luizfelipe-dev/sd-010-a-project-recipes-
 :heavy_check_mark: Entre na pasta do projeto:
 <code>cd SD-A010-A-PROJECT-RECIPES</code>
 
-:heavy_check_mark: Instale as dependências: <code>npm install</code> ou <code>yarn install</code>
+:heavy_check_mark: Instale as dependências: 
+
+- Com NPM: <code>npm install</code> e <code>npm install react-slick</code>
+
+- Com Yarn <code>yarn install</code> e <code>yarn add react-slick</code>
 
 :heavy_check_mark: Entre na branch correta com o comando: <code> git checkout main-group-23 </code>
 
