@@ -19,9 +19,15 @@ Via SSH: <code>git clone git@github.com:luizfelipe-dev/sd-010-a-project-recipes-
 
 - Com Yarn <code>yarn install</code> e <code>yarn add react-slick</code>
 
-:heavy_check_mark: Entre na branch correta com o comando: <code> git checkout main-group-23 </code>
-
 :heavy_check_mark: Inicie o servidor local para rodar o projeto: <code>npm start</code> ou <code>yarn start</code>
+
+----------------------------------------------------------------------------------------
+
+### :pushpin: Branch
+
+:heavy_check_mark: Para verificar se está na branch principal do projeto digite <code>git branch</code> e veja se aparece Master. 
+
+:heavy_check_mark:  Caso apareça outra branch, entre na Branch Principal digitando <code> git checkout master </code>
 
 ----------------------------------------------------------------------------------------
 ### :pushpin: Utilização do Projeto
