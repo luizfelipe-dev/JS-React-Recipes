@@ -1,5 +1,7 @@
 # :tropical_drink: R3CIPE23
 
+*-em desenvolvimento-*
+
 Neste projeto, o usuário pode acessar diversas receitas de comidas ou bebidas e pode decidir iniciar uma receita assim que estiver cozinhando, marcando os ingredientes, item por item, até que essa receita seja finalizada. Existem diversos modos de filtros e consultas: o usuário pode escolher exibir receitas por tipo de carne, ingrediente ou até mesmo por local de origem. Nosso produto também recomenda receitas que harmonizam com outras e ainda permite que o usuário favorite e acesse receitas registradas anteriormente, pois elas ficam salvas no próprio dispositivo.
 
 ## :pushpin: Instruções para Instalação
