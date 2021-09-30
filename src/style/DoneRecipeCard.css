@@ -1,0 +1,46 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.done-recipe-card {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: whitesmoke;
+  transition: 0.3s;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 8px;
+  height: 55vh;
+  width: 30vh;
+  margin-bottom: 15px;
+}
+
+#header-image {
+  height: 100%;
+  width: 100%;
+}
+
+.done-recipe-card img {
+  width: 60%;
+  padding-top: 10px;
+}
+
+.done-recipe-card p {
+  margin: 0;
+}
+
+.done-recipe-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  /* flex-grow: 1; */
+  height: auto;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.horizontal-top-text {
+  margin-left: 15px;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-around;
+}

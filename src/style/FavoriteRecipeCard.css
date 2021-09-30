@@ -1,0 +1,44 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.favorite-recipe-card {
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  height: 220px;
+  justify-content: space-between;
+  margin: 30px 10px;
+  margin-left: 230px;
+  transition: 0.3s;
+  width: 30%;
+}
+
+.favorite-recipe-card a img {
+  height: 100%;
+  width: 100px;
+}
+
+.favorite-recipe-card p {
+  margin: 0;
+}
+
+.favorite-recipe-info {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 100vh;
+}
+
+.horizontal-top-text {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.favorite-card-buttons-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 180px;
+  height: 50%;
+}

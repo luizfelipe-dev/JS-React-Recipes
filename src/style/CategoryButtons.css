@@ -1,0 +1,47 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+.category-button {
+  align-items: flex-start;
+  /* background-color: rgb(30,30,30); */
+  /* background-color: #DB5461; */
+  /* background-color: aquamarine; */
+  background-color: #FFFBFA;
+  color: black;
+  font-weight: 500;
+  border-radius: 8px;
+  display: flex;
+  flex-flow: column wrap;
+  height: 16vh;
+  justify-content: flex-start;
+  margin-top: 15px;
+  width: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.category-buttons {
+  height: 8px;
+}
+
+.category-button input {
+  margin: 12px 6px;
+}
+
+.input {
+  color: whitesmoke;
+  background-color: rgb(30,30,30);
+}
+
+/*  DESKTOP RESOLUTION BELOW */
+
+@media screen and ( min-width: 769px) {
+
+  .category-button {
+    height: 5vh;
+  }
+
+  .category-buttons {
+    height: 12px;
+  }
+  
+}
