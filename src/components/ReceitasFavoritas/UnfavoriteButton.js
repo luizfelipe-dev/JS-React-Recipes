@@ -6,6 +6,8 @@ import FavoritesContext from '../../contexts/FavoritesContext';
 import blackHeartIcon from '../../images/blackHeartIcon.svg';
 import whiteHeartIcon from '../../images/whiteHeartIcon.svg';
 
+// CSS Inline in this component
+
 export default function UnfavoriteButton({ recipe, index }) {
   const { favorites, setFavorites } = useContext(FavoritesContext);
 
@@ -19,7 +21,7 @@ export default function UnfavoriteButton({ recipe, index }) {
     );
     setFavorites(updatedFavorites);
   }
-  console.log(index);
+
   useEffect(() => {
     // gets favorites from LS, if there is any
     const favoriteRecipes = JSON.parse(localStorage.getItem('favoriteRecipes'));
@@ -36,11 +38,13 @@ export default function UnfavoriteButton({ recipe, index }) {
         setIsFavorite(!isFavorite);
         handleFavoriteClick();
       } }
+      style={ { backgroundColor: 'transparent' } }
     >
       <img
         data-testid={ `${index}-horizontal-favorite-btn` }
         src={ isFavorite ? blackHeartIcon : whiteHeartIcon }
         alt="favoritar"
+        style={ { width: 30, backgroundColor: 'transparent' } }
       />
     </button>
   );

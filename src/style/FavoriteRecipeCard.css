@@ -2,8 +2,10 @@
 
 .favorite-recipe-card {
   display: flex;
-  height: 100px;
+  flex-direction: column;
+  height: 200px;
   justify-content: space-between;
+  margin: 30px 10px;
 }
 
 .favorite-recipe-card a img {
@@ -29,7 +31,8 @@
 }
 
 .favorite-card-buttons-container {
-  align-items: center;
   display: flex;
-  justify-content: space-around;
+  flex-direction: row;
+  margin-left: 180px;
+  height: 50%;
 }
