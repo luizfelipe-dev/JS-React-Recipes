@@ -7,9 +7,9 @@ Neste projeto, o usuário pode acessar diversas receitas de comidas ou bebidas e
 O projeto está online em https://recipes-mobile.herokuapp.com/
 
 ----------------------------------------------------------------------------------------
-### :pushpin: Utilização do Projeto
+# :iphone: Utilização do Projeto
 
-O projeto foi desenvolvido com a metodologia Mobile First :iphone:, ou seja, o projeto está responsivo para smartphones.
+O projeto foi desenvolvido com a metodologia Mobile First , ou seja, o projeto está responsivo para smartphones.
 Para visualizar o projeto com a resolução adequada:
 
 :globe_with_meridians: Utilizando Google Chrome: Aperte F12 e depois Ctrl + Shift + M
@@ -26,7 +26,9 @@ Para visualizar a aplicação você deve preencher um email e senha, que podem s
 
 :heavy_check_mark: Para senha basta digitar mais de 6 dígitos quaisquer
 
-## :hammer: Quanto as partes Técnicas do Projeto:
+----------------------------------------------------------------------------------------
+
+## :hammer: Sobre as partes Técnicas do Projeto:
 
 Foi desenvolvido todo o Front-End com HTML5, Javascript com o framework React, CSS3 e pouca ajuda do framework Bulma.
 
@@ -40,4 +42,4 @@ https://www.themealdb.com/
 
 https://www.thecocktaildb.com/
 
-:man: Projeto desenvolvido em conjunto com meus amigos Guilherme Dugaich e Erick Marinho, com pequena participação do André Akira.
+Projeto desenvolvido em conjunto com meus amigos Guilherme Dugaich e Erick Marinho, com pequena participação do André Akira.
