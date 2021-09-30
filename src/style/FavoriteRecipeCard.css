@@ -9,9 +9,9 @@
   height: 220px;
   justify-content: space-between;
   margin: 30px 10px;
-  margin-left: 150px;
+  margin-left: 230px;
   transition: 0.3s;
-  width: 50%;
+  width: 30%;
 }
 
 .favorite-recipe-card a img {
