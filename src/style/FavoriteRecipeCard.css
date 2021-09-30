@@ -1,11 +1,17 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
 .favorite-recipe-card {
+  align-items: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
-  height: 200px;
+  height: 220px;
   justify-content: space-between;
   margin: 30px 10px;
+  margin-left: 150px;
+  transition: 0.3s;
+  width: 50%;
 }
 
 .favorite-recipe-card a img {
